@@ -1,4 +1,5 @@
-https://github.com/AkashRanjan23/AkashRanjan23/assets/150953524/e1457d08-810e-46ca-9745-713977376148
+![6ddd9c7e-e89c-42df-a2ac-94a918c3f721](https://github.com/AkashRanjan23/AkashRanjan23/assets/150953524/2d784a7b-c0f4-4ac1-86c6-0f8654a0af3c)
+
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Hi                                   👋 I’m Akash Ranjan, a passionate Data Science student.
