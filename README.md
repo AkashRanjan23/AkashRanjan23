@@ -1,8 +1,5 @@
-
-https://github.com/AkashRanjan23/AkashRanjan23/assets/150953524/118704b1-6de3-4da6-b30b-3198026ee9aa
-
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Hi 👋                               I’m Akash Ranjan, a passionate Data Science student.
+Hi                                   👋 I’m Akash Ranjan, a passionate Data Science student.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Eager entry-level candidate with a strong desire to pursue a career as a Data Analyst. Proficient in data manipulation, visualization, and statistical analysis. I am prepared to leverage my skills and enthusiasm for data to make a meaningful contribution to the success of the organization. I am sociable and committed, adept at connecting with people and adapting to changing circumstances. I hold the belief that continuous professional skill development and ongoing learning are essential for personal and career growth.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
