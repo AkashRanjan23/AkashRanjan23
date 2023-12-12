@@ -1,4 +1,5 @@
 ![bg-mid](https://github.com/AkashRanjan23/HotelBooking_Analysis/assets/150953524/6a5335b4-08ba-4360-ad2e-c70d94e665fb)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - 👋 Hi, I’m Akash Ranjan, a passionate Data Science student.
 - 👀 I’m interested in exploring the vast realms of data and uncovering meaningful insights.
