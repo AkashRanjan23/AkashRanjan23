@@ -1,6 +1,6 @@
 ![bg-mid](https://github.com/AkashRanjan23/HotelBooking_Analysis/assets/150953524/6a5335b4-08ba-4360-ad2e-c70d94e665fb)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                           ![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966](https://github.com/AkashRanjan23/AkashRanjan23/assets/150953524/fea4ff00-e321-48ad-bf29-6fa7c4ced889)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Hi ![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966](https://github.com/AkashRanjan23/AkashRanjan23/assets/150953524/fea4ff00-e321-48ad-bf29-6fa7c4ced889)
   Hi, I’m Akash Ranjan, a passionate Data Science student.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Eager entry-level candidate with a strong desire to pursue a career as a Data Analyst. Proficient in data manipulation, visualization, and statistical analysis. I am prepared to leverage my skills and enthusiasm for data to make a meaningful contribution to the success of the organization. I am sociable and committed, adept at connecting with people and adapting to changing circumstances. I hold the belief that continuous professional skill development and ongoing learning are essential for personal and career growth.
