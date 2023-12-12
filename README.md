@@ -1,4 +1,5 @@
-![Your paragraph text](https://github.com/AkashRanjan23/AkashRanjan23/assets/150953524/62f66f51-1531-42e2-a6c0-764f24d93a16)
+
+https://github.com/AkashRanjan23/AkashRanjan23/assets/150953524/118704b1-6de3-4da6-b30b-3198026ee9aa
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Hi 👋                               I’m Akash Ranjan, a passionate Data Science student.
