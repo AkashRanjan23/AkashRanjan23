@@ -1,10 +1,10 @@
 ![Abstract Bokeh Octagon Footage Video Youtube Outro](https://github.com/AkashRanjan23/AkashRanjan23/assets/150953524/cde09982-b9c8-48f4-858e-9e8a8f3b4cdd)
 
-Hi                                   👋 I’m Akash Ranjan, a passionate Data Science student.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Eager entry-level candidate with a strong desire to pursue a career as a Data Analyst. Proficient in data manipulation, visualization, and statistical analysis. I am prepared to leverage my skills and enthusiasm for data to make a meaningful contribution to the success of the organization. I am sociable and committed, adept at connecting with people and adapting to changing circumstances. I hold the belief that continuous professional skill development and ongoing learning are essential for personal and career growth.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+- 👋 I’m Akash Ranjan, a passionate Data Science student.
 - 👀 I’m interested in exploring the vast realms of data and uncovering meaningful insights.
 - 🔍 I am presently delving into diverse data science projects, enhancing my comprehension of machine learning algorithms, and honing my expertise in data analysis and visualization.
 - 💞️ I’m looking to collaborate on projects that involve predictive modeling, data analysis, or any interesting application of data science.
