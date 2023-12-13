@@ -1,4 +1,5 @@
-![Abstract Bokeh Octagon Footage Video Youtube Outro](https://github.com/AkashRanjan23/AkashRanjan23/assets/150953524/4719b102-f8fa-45b8-a64c-70d11f4e42dc)
+
+![Abstract Bokeh Octagon Footage Video Youtube Outro](https://github.com/AkashRanjan23/AkashRanjan23/assets/150953524/102c21e2-f7b2-4351-b60b-a9fdace5fe31)
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
