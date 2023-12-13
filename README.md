@@ -1,3 +1,4 @@
+![Abstract Bokeh Octagon Footage Video Youtube Outro](https://github.com/AkashRanjan23/AkashRanjan23/assets/150953524/cde09982-b9c8-48f4-858e-9e8a8f3b4cdd)
 
 Hi                                   👋 I’m Akash Ranjan, a passionate Data Science student.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
